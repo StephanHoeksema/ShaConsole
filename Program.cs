@@ -9,7 +9,7 @@
             /*Console.WriteLine("Hello, welkom " + name); //Concationation
              * Console.WriteLine($"Hello, welkom {name}" ); //Intrapolation
              */ 
-            Console.WriteLine("Hello, welkom {1}",names); //Formatted string
+            Console.WriteLine("Hello, welkom {0}",names); //Formatted string
              /* 
              * int myAge = 48; 
              * Console.WriteLine(myAge);
